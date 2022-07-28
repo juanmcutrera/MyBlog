@@ -1,0 +1,46 @@
+search: Búsqueda...
+prev: Previo
+next: Siguiente
+prev_posts: Posts Anteriores
+next_posts: Posts Siguientes
+page: Página %d
+recent_posts: Posts Recientes
+share: Share
+powered_by: "Powered by %s"
+theme: Theme
+rss_feed: RSS Feed
+category: Categoría
+categories: Categorías
+tag: Tag
+tags: Tags
+tagcloud: Tag Cloud
+comment: Comentario
+comments: Comentarios
+home: Home
+archive: Archivo
+archives: Archivos
+about: Acerca de
+site_uv: Visitor Count
+site_pv: Totalview
+links: Links
+link: Link
+top: TOP
+read_more: Leer más
+wordcount: Palabra/s
+min2read: Minuto/s
+changelog: Changelog
+copyright:
+  author: Juan Manuel Cutrera
+  title: Título post
+  link: Link post
+  create_time: Create time
+  license_title: Copyright Notice
+  license_content: "All articles in this blog are licensed under %s unless stating additionally."
+ago:
+  second: "%s seconds ago"
+  minute: "%s minutes ago"
+  hour: "%s hours ago"
+  day: "%s days ago"
+  week: "%s weeks ago"
+  month: "%s months ago"
+  year: "%s years ago"
